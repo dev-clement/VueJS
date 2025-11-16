@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1
+        , "name": "Chevy"
+        , "price": 15000
+        , "year": 2015
+        , "contact": {
+            "name": "Karim"
+            , "number": "111-111-111"
+        }
+    }
+    , {
+        "id": 2
+        , "name": "Bentley"
+        , "price": 25000
+        , "year": 2017
+        , "contact": {
+            "name": "Moktar"
+            , "number": "222-222-222"
+        }
+    }
+    , {
+        "id": 3
+        , "name": "Mercedes"
+        , "price": 215000
+        , "year": 1998
+        , "contact": {
+            "name": "Mohamed"
+            , "number": "333-333-333"
+        }
+    }
+    , {
+        "id": 4
+        , "name": "Dacia"
+        , "price": 45000
+        , "year": 1850
+        , "contact": {
+            "name": "Ayoun"
+            , "number": "444-444-444"
+        }
+    }
+    , {
+        "id": 5
+        , "name": "Renaud"
+        , "price": 40000
+        , "year": 2007
+        , "contact": {
+            "name": "Samir"
+            , "number": "555-555-555"
+        }
+    }
+    , {
+        "id": 6
+        , "name": "Ford"
+        , "price": 33000
+        , "year": 2010
+        , "contact": {
+            "name": "Daroua"
+            , "number": "666-666-666"
+        }
+    }
+]
